@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  labels:
+    ns: nwp-api
+  creationTimestamp: null
+  name: nwp-api
+spec: {}
+status: {}
